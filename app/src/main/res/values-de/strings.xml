@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimerProyectoDeAndrade</string>
+    <string name="texto_bienv">Willkommen</string>
+    <string name="texto_boton">Eintreten</string>
+</resources>
